@@ -1,0 +1,14 @@
+# Extracting live stocks details
+It is a simple practise project
+were I am extracting live Stock data from Google by searching companies 1 by 1 extracting data and exporting to excel
+list of companies can be customised by altering 'stock' variable in code
+
+# Requirements to run project
+1 Python 3 to run the code.
+2 Python IDE
+3 Google chrome and Chrome Driver
+4 Already Installed library selenium and pandas
+5 Microsoft Excel
+
+# NOTE
+code will take approx 3 seconds to extract data for each company listed in 'stock' variable. 
